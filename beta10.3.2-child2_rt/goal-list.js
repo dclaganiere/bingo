@@ -1,5 +1,5 @@
 var bingoList = {
-  "version": "beta10.3.1-child2_rt",
+  "version": "beta10.3.2-child2_rt",
   "goallists": {
     "normal": {
       "goals": [
