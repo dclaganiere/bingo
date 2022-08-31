@@ -1,5 +1,5 @@
-{
-  "version": "v10.3",
+var bingoList = {
+  "version": "beta10.3.3-child2_rt",
   "goallists": {
     "normal": {
       "goals": [
@@ -36,7 +36,7 @@
           "name": "Lens of Truth",
           "time": 0.25,
           "skill": 0.0,
-          "weight": 0.1,
+          "weight": 0.05000000000000002,
           "types": {
             "botw": 0.0,
             "selfsynergy": 0.0
@@ -59,7 +59,7 @@
           "name": "Bottled Fairy",
           "time": 0.5,
           "skill": 0.0,
-          "weight": -0.15000000000000002,
+          "weight": -0.10000000000000002,
           "types": {
             "selfsynergy": 0.0
           },
@@ -103,7 +103,7 @@
           "name": "Defeat a Skull Kid",
           "time": 0.75,
           "skill": 0.0,
-          "weight": -0.1,
+          "weight": -0.05000000000000002,
           "types": {
             "forest": 0.25,
             "selfsynergy": 0.0
@@ -192,7 +192,7 @@
           "name": "Map & Compass in Bottom of the Well",
           "time": 1.0,
           "skill": 0.0,
-          "weight": -0.15,
+          "weight": -0.2000000000000001,
           "types": {
             "childchu": 0.0,
             "selfsynergy": 0.0
@@ -217,7 +217,7 @@
           "name": "Goron Tunic",
           "time": 1.25,
           "skill": 0.0,
-          "weight": 0.05000000000000002,
+          "weight": 0.10000000000000002,
           "types": {
             "gtunic": 1.0,
             "inctunic": 100.0,
@@ -242,7 +242,7 @@
           "name": "Zora Tunic",
           "time": 1.25,
           "skill": 0.0,
-          "weight": 0.10000000000000002,
+          "weight": 0.1,
           "types": {
             "fountain": 1.5,
             "inctunic": 100.0,
@@ -344,7 +344,7 @@
           "name": "Minuet of Forest",
           "time": 1.75,
           "skill": 0.0,
-          "weight": 0.05,
+          "weight": 0.0,
           "types": {
             "forest": 1.5,
             "incforest": 100.0,
@@ -373,7 +373,7 @@
           "name": "2 Skulltulas in Lon Lon Ranch",
           "time": 2.0,
           "skill": 0.0,
-          "weight": -0.10000000000000002,
+          "weight": -0.2,
           "types": {
             "incranchskulls": 100.0,
             "lonlon": 1.0,
@@ -398,7 +398,7 @@
           "name": "Both HPs in Death Mountain Crater",
           "time": 2.0,
           "skill": 0.0,
-          "weight": -0.05000000000000002,
+          "weight": 0.0,
           "types": {
             "dmc": 0.5,
             "selfsynergy": 0.0
@@ -425,7 +425,7 @@
           "name": "Map & Compass in Dodongo's Cavern",
           "time": 2.0,
           "skill": 0.0,
-          "weight": -0.05000000000000002,
+          "weight": -0.2,
           "types": {
             "dc": 1.0,
             "selfsynergy": 0.0
@@ -449,7 +449,7 @@
           "name": "5 Magic Beans",
           "time": 2.25,
           "skill": 0.0,
-          "weight": 1.3877787807814457E-17,
+          "weight": 0.10000000000000002,
           "types": {
             "beans": 4.75,
             "childreset": 0.5,
@@ -474,7 +474,7 @@
           "name": "Lon Lon Ranch HP",
           "time": 2.25,
           "skill": 0.0,
-          "weight": -0.2,
+          "weight": -0.25000000000000006,
           "types": {
             "lonlon": 1.75,
             "selfsynergy": 0.0
@@ -498,7 +498,7 @@
           "name": "3 Tunics",
           "time": 2.5,
           "skill": 0.0,
-          "weight": 1.3877787807814457E-17,
+          "weight": 0.10000000000000002,
           "types": {
             "fountain": 1.5,
             "gtunic": 1.0,
@@ -528,7 +528,7 @@
           "name": "5 Hearts",
           "time": 2.5,
           "skill": 0.0,
-          "weight": 0.4,
+          "weight": 0.44999999999999996,
           "types": {
             "hearts3": 4.0,
             "inchearts": 100.0,
@@ -550,7 +550,7 @@
           "name": "All 3 Skulltulas in Bottom of the Well",
           "time": 3.0,
           "skill": 0.75,
-          "weight": -0.2,
+          "weight": -0.3000000000000001,
           "types": {
             "childchu": 0.0,
             "selfsynergy": 0.0
@@ -574,7 +574,7 @@
           "name": "Fire Temple Boss Key",
           "time": 3.0,
           "skill": 0.0,
-          "weight": 0.05,
+          "weight": 0.10000000000000002,
           "types": {
             "dmc": 1.0,
             "fire": 0.25,
@@ -603,7 +603,7 @@
           "name": "Open 3 Gold Rupee Chests",
           "time": 3.0,
           "skill": 0.0,
-          "weight": -0.05000000000000002,
+          "weight": -0.15000000000000002,
           "types": {
             "botw": 0.0,
             "goldrupee": 15.0,
@@ -629,7 +629,7 @@
           "name": "Silver Scale",
           "time": 3.0,
           "skill": 0.0,
-          "weight": 0.15,
+          "weight": 0.30000000000000004,
           "types": {
             "inclhskull": 2.0,
             "selfsynergy": 0.0
@@ -654,7 +654,7 @@
           "name": "Ganon's Castle Boss Key",
           "time": 3.25,
           "skill": 0.0,
-          "weight": 0.05,
+          "weight": 0.05000000000000002,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -683,7 +683,7 @@
           "name": "4 Maps",
           "time": 3.5,
           "skill": 0.0,
-          "weight": 1.3500000000000003,
+          "weight": 1.5500000000000005,
           "types": {
             "childchu": 0.0,
             "hovers": 2.0,
@@ -711,7 +711,7 @@
           "name": "7 Different Bottled Contents",
           "time": 3.5,
           "skill": 0.0,
-          "weight": 0.0,
+          "weight": -0.05,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -768,7 +768,7 @@
           "name": "Both Gerudo Valley HPs",
           "time": 3.5,
           "skill": 0.0,
-          "weight": 0.0,
+          "weight": -0.05,
           "types": {
             "fortress": 1.5,
             "selfsynergy": 0.0
@@ -824,7 +824,7 @@
           "name": "Ice Cavern HP",
           "time": 3.5,
           "skill": 0.0,
-          "weight": -0.1,
+          "weight": -0.05,
           "types": {
             "fountain": 2.0,
             "ice": 1.5,
@@ -851,7 +851,7 @@
           "name": "3 Songs",
           "time": 3.75,
           "skill": 0.0,
-          "weight": 0.4,
+          "weight": 0.49999999999999994,
           "types": {
             "incsongs": 100.0,
             "poachers": 3.5,
@@ -913,7 +913,7 @@
           "name": "4 Songs",
           "time": 3.75,
           "skill": 0.0,
-          "weight": 0.30000000000000004,
+          "weight": 0.4,
           "types": {
             "incsongs": 100.0,
             "poachers": 3.5,
@@ -944,7 +944,7 @@
           "name": "Blue Potion",
           "time": 3.75,
           "skill": 0.0,
-          "weight": -0.1,
+          "weight": -0.2,
           "types": {
             "poachers": 3.5,
             "selfsynergy": 0.0
@@ -970,7 +970,7 @@
           "name": "Giant's Wallet",
           "time": 3.75,
           "skill": 0.25,
-          "weight": -0.25,
+          "weight": -0.30000000000000004,
           "types": {
             "incbeans": 100.0,
             "selfsynergy": -3.0,
@@ -1051,7 +1051,7 @@
           "name": "Cow in House",
           "time": 4.0,
           "skill": 0.0,
-          "weight": -0.5,
+          "weight": -0.55,
           "types": {
             "selfsynergy": 0.0
           },
@@ -1071,7 +1071,7 @@
           "name": "Defeat all Lizalfos in Dodongo's Cavern",
           "time": 4.0,
           "skill": 0.0,
-          "weight": -0.3,
+          "weight": -0.44999999999999996,
           "types": {
             "dc": 2.0,
             "selfsynergy": 0.0
@@ -1180,7 +1180,7 @@
           "name": "Both Hyrule Field Area Skulltulas",
           "time": 4.25,
           "skill": 0.5,
-          "weight": -0.30000000000000004,
+          "weight": -0.25,
           "types": {
             "fortress": 1.0,
             "selfsynergy": 0.0
@@ -1204,7 +1204,7 @@
           "name": "Clear 4 Silver Rupee Rooms",
           "time": 4.25,
           "skill": 0.25,
-          "weight": 0.15000000000000002,
+          "weight": 0.10000000000000002,
           "types": {
             "aganon": 1.0,
             "bganon": -0.75,
@@ -1238,7 +1238,7 @@
           "name": "Defeat Queen Gohma",
           "time": 4.25,
           "skill": 0.0,
-          "weight": -0.05,
+          "weight": -0.10000000000000002,
           "types": {
             "deku": 5.0,
             "endon": -0.25,
@@ -1294,7 +1294,7 @@
           "name": "All 4 Skulltulas in Jabu-Jabu",
           "time": 4.5,
           "skill": 0.25,
-          "weight": -0.2,
+          "weight": -0.30000000000000004,
           "types": {
             "fountain": 2.0,
             "jabu": 2.0,
@@ -1320,7 +1320,7 @@
           "name": "Both Gerudo's Fortress Area Skulltulas",
           "time": 4.5,
           "skill": 0.25,
-          "weight": 0.0,
+          "weight": 0.1,
           "types": {
             "fortress": 2.5,
             "selfsynergy": 0.0
@@ -1346,7 +1346,7 @@
           "name": "Bullet Bag (40)",
           "time": 4.5,
           "skill": 0.0,
-          "weight": -0.15000000000000002,
+          "weight": -0.2,
           "types": {
             "bulletbag": 100.0,
             "childreset": 1.25,
@@ -1373,7 +1373,7 @@
           "name": "Milk",
           "time": 4.5,
           "skill": 0.0,
-          "weight": -0.25,
+          "weight": -0.35,
           "types": {
             "lonlon": 3.5,
             "selfsynergy": 0.0
@@ -1400,7 +1400,7 @@
           "name": "Plant bean in Death Mountain Crater",
           "time": 4.5,
           "skill": 0.25,
-          "weight": -0.4,
+          "weight": -0.39999999999999997,
           "types": {
             "childchu": 0.0,
             "dmcchild": 1.25,
@@ -1427,7 +1427,7 @@
           "name": "2 Boss Keys",
           "time": 4.75,
           "skill": 0.0,
-          "weight": 1.0999999999999999,
+          "weight": 1.3500000000000003,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -1457,7 +1457,7 @@
           "name": "6 Songs",
           "time": 4.75,
           "skill": 0.0,
-          "weight": 0.15000000000000002,
+          "weight": 0.05,
           "types": {
             "incsongs": 100.0,
             "poachers": 3.5,
@@ -1486,7 +1486,7 @@
           "name": "Beat the Deku Tree",
           "time": 4.75,
           "skill": 0.25,
-          "weight": -0.1,
+          "weight": -0.15000000000000002,
           "types": {
             "deku": 5.0,
             "endon": -2.0,
@@ -1518,7 +1518,7 @@
           "name": "Defeat a White Wolfos",
           "time": 4.75,
           "skill": 0.25,
-          "weight": 0.4,
+          "weight": 0.44999999999999996,
           "types": {
             "fortress": 3.0,
             "fountain": 2.0,
@@ -1549,7 +1549,7 @@
           "name": "Defeat Bongo-Bongo",
           "time": 4.75,
           "skill": 0.5,
-          "weight": 0.1,
+          "weight": 0.15000000000000002,
           "types": {
             "deku": 2.0,
             "hovers": 2.5,
@@ -1580,7 +1580,7 @@
           "name": "Defeat Phantom Ganon",
           "time": 4.75,
           "skill": 0.0,
-          "weight": 0.0,
+          "weight": -0.05,
           "types": {
             "endon": -0.5,
             "forest": 3.0,
@@ -1614,7 +1614,7 @@
           "name": "Fill all 4 Bottle Slots",
           "time": 4.75,
           "skill": 0.0,
-          "weight": -0.30000000000000004,
+          "weight": -0.25,
           "types": {
             "bottleslot": 4.5,
             "selfsynergy": 0.0
@@ -1637,7 +1637,7 @@
           "name": "Ice Arrows",
           "time": 4.75,
           "skill": 0.0,
-          "weight": 0.30000000000000004,
+          "weight": 0.39999999999999997,
           "types": {
             "fortress": 3.0,
             "gtg": 1.0,
@@ -1669,7 +1669,7 @@
           "name": "Iron Boots",
           "time": 4.75,
           "skill": 0.25,
-          "weight": 0.0,
+          "weight": -0.1,
           "types": {
             "endon": -0.5,
             "fountain": 2.0,
@@ -1757,7 +1757,7 @@
           "name": "15 Different Skulltulas",
           "time": 5.0,
           "skill": 0.5,
-          "weight": 0.0,
+          "weight": -1.3877787807814457E-17,
           "types": {
             "incskulls": 100.0,
             "selfsynergy": -2.0,
@@ -1803,7 +1803,7 @@
           "name": "3 Unused Keys in Gerudo Training Grounds",
           "time": 5.0,
           "skill": 0.0,
-          "weight": 0.24999999999999997,
+          "weight": 0.30000000000000004,
           "types": {
             "endon": -0.25,
             "fortress": 3.0,
@@ -1867,7 +1867,7 @@
           "name": "500 Rupees",
           "time": 5.25,
           "skill": 0.25,
-          "weight": -0.3500000000000001,
+          "weight": -0.29999999999999993,
           "types": {
             "selfsynergy": -3.0,
             "skulls": 100.0
@@ -1892,7 +1892,7 @@
           "name": "All 4 Lost Woods Area Skulltulas",
           "time": 5.25,
           "skill": 0.0,
-          "weight": -0.24999999999999997,
+          "weight": -0.35000000000000003,
           "types": {
             "childreset": 1.25,
             "forest": 1.0,
@@ -1918,7 +1918,7 @@
           "name": "All 5 Skulltulas in Dodongo's Cavern",
           "time": 5.25,
           "skill": 0.0,
-          "weight": -0.25000000000000006,
+          "weight": -0.35,
           "types": {
             "dc": 4.0,
             "selfsynergy": 0.0
@@ -1946,7 +1946,7 @@
           "name": "Forest Medallion",
           "time": 5.5,
           "skill": 0.0,
-          "weight": 0.75,
+          "weight": 0.8999999999999999,
           "types": {
             "endon": -1.0,
             "forest": 4.0,
@@ -1985,7 +1985,7 @@
           "name": "Golden Gauntlets",
           "time": 5.5,
           "skill": 0.75,
-          "weight": -0.05,
+          "weight": 0.0,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -2016,7 +2016,7 @@
           "name": "Stone of Agony",
           "time": 5.5,
           "skill": 1.0,
-          "weight": -0.19999999999999998,
+          "weight": -0.3,
           "types": {
             "forest": 0.5,
             "incskulls": 100.0,
@@ -2102,7 +2102,7 @@
           "name": "All 4 Lon Lon Ranch Area Skulltulas",
           "time": 5.75,
           "skill": 0.75,
-          "weight": -0.7999999999999999,
+          "weight": -1.1500000000000001,
           "types": {
             "childchu": 0.0,
             "incranchskulls": 100.0,
@@ -2129,7 +2129,7 @@
           "name": "Beat Dodongo's Cavern",
           "time": 5.75,
           "skill": 0.25,
-          "weight": 0.1,
+          "weight": 0.15000000000000002,
           "types": {
             "dc": 3.0,
             "fortress": 2.0,
@@ -2159,7 +2159,7 @@
           "name": "Defeat Big Octo",
           "time": 5.75,
           "skill": 0.25,
-          "weight": -0.15000000000000002,
+          "weight": -0.2,
           "types": {
             "fountain": 2.0,
             "jabu": 1.5,
@@ -2185,7 +2185,7 @@
           "name": "Defeat Morpha",
           "time": 5.75,
           "skill": 0.25,
-          "weight": -0.05,
+          "weight": 0.05,
           "types": {
             "endon": -0.5,
             "incwboss": 100.0,
@@ -2215,7 +2215,7 @@
           "name": "37th Heart Piece (Child Fortress)",
           "time": 6.0,
           "skill": 0.25,
-          "weight": 0.35000000000000003,
+          "weight": 0.49999999999999994,
           "types": {
             "childreset": 1.25,
             "fortress": 2.5,
@@ -2274,7 +2274,7 @@
           "name": "7 Magic Beans",
           "time": 6.0,
           "skill": 0.25,
-          "weight": -0.25,
+          "weight": -0.1,
           "types": {
             "beans": 5.75,
             "childreset": 0.5,
@@ -2357,7 +2357,7 @@
           "name": "Requiem of Spirit",
           "time": 6.0,
           "skill": 0.5,
-          "weight": 0.25,
+          "weight": 0.44999999999999996,
           "types": {
             "endon": -0.25,
             "fortress": 2.5,
@@ -2389,7 +2389,7 @@
           "name": "4 Unused Keys in Forest Temple",
           "time": 6.25,
           "skill": 0.0,
-          "weight": -0.1,
+          "weight": 0.0,
           "types": {
             "forest": 3.0,
             "incforest": 100.0,
@@ -2420,7 +2420,7 @@
           "name": "6 Hearts",
           "time": 6.25,
           "skill": 0.25,
-          "weight": 0.15000000000000002,
+          "weight": 0.25,
           "types": {
             "hearts3": 7.0,
             "inchearts": 100.0,
@@ -2442,7 +2442,7 @@
           "name": "All 8 Kakariko Area Skulltulas",
           "time": 6.25,
           "skill": 0.25,
-          "weight": -0.7500000000000001,
+          "weight": -1.3000000000000003,
           "types": {
             "childchu": 0.0,
             "selfsynergy": 0.0
@@ -2466,7 +2466,7 @@
           "name": "Boomerang",
           "time": 6.25,
           "skill": 0.25,
-          "weight": -0.15000000000000002,
+          "weight": -0.2,
           "types": {
             "fountain": 2.0,
             "incbarinade": 100.0,
@@ -2495,7 +2495,7 @@
           "name": "Epona's Song",
           "time": 6.25,
           "skill": 0.0,
-          "weight": 0.15000000000000002,
+          "weight": 0.05,
           "types": {
             "lonlon": 3.5,
             "selfsynergy": 0.0
@@ -2525,7 +2525,7 @@
           "name": "Open 50 Rupee chest in Wasteland",
           "time": 6.25,
           "skill": 0.25,
-          "weight": 0.15000000000000002,
+          "weight": 0.39999999999999997,
           "types": {
             "dins": 3.0,
             "fortress": 2.5,
@@ -2556,7 +2556,7 @@
           "name": "7 Songs",
           "time": 6.5,
           "skill": 0.0,
-          "weight": 0.25,
+          "weight": 0.2500000000000001,
           "types": {
             "incsongs": 100.0,
             "poachers": 3.5,
@@ -2586,7 +2586,7 @@
           "name": "All 4 Child Zora's Domain Area Skulltulas",
           "time": 6.5,
           "skill": 0.0,
-          "weight": -0.55,
+          "weight": -0.65,
           "types": {
             "childchu": 0.0,
             "fountain": 2.0,
@@ -2615,7 +2615,7 @@
           "name": "Beat the Water Temple",
           "time": 6.5,
           "skill": 0.25,
-          "weight": -0.05,
+          "weight": -0.15000000000000002,
           "types": {
             "endon": -1.0,
             "incwboss": 100.0,
@@ -2645,7 +2645,7 @@
           "name": "Water Medallion",
           "time": 6.5,
           "skill": 0.0,
-          "weight": 0.6000000000000001,
+          "weight": 0.8000000000000002,
           "types": {
             "fortress": 2.0,
             "inclacs": 100.0,
@@ -2708,7 +2708,7 @@
           "name": "Defeat Dark Link",
           "time": 6.75,
           "skill": 0.25,
-          "weight": -0.2,
+          "weight": -0.35,
           "types": {
             "dc": 2.0,
             "inclong": 100.0,
@@ -2742,7 +2742,7 @@
           "name": "Longshot",
           "time": 6.75,
           "skill": 0.0,
-          "weight": -0.3,
+          "weight": -0.35000000000000003,
           "types": {
             "dc": 2.0,
             "inclong": 100.0,
@@ -2776,7 +2776,7 @@
           "name": "Plant 5 Magic Beans",
           "time": 6.75,
           "skill": 0.5,
-          "weight": -0.39999999999999997,
+          "weight": -0.3500000000000001,
           "types": {
             "beans": 4.75,
             "childreset": 1.25,
@@ -2801,7 +2801,7 @@
           "name": "5 Maps",
           "time": 7.0,
           "skill": 0.25,
-          "weight": 1.2500000000000002,
+          "weight": 1.3000000000000003,
           "types": {
             "childchu": 0.0,
             "hovers": 2.0,
@@ -2831,7 +2831,7 @@
           "name": "All 4 Gerudo Valley Area Skulltulas",
           "time": 7.0,
           "skill": 0.25,
-          "weight": -0.35000000000000003,
+          "weight": -0.3,
           "types": {
             "childchu": 0.0,
             "fortress": 2.0,
@@ -2861,7 +2861,7 @@
           "name": "Win Bombchu Bowling Prize",
           "time": 7.0,
           "skill": 0.5,
-          "weight": -0.1,
+          "weight": -0.05,
           "types": {
             "bbprize": 100.0,
             "childchu": 0.0,
@@ -2924,7 +2924,7 @@
           "name": "3 Boots",
           "time": 7.25,
           "skill": 0.25,
-          "weight": 0.1,
+          "weight": 0.15000000000000002,
           "types": {
             "endon": -0.5,
             "fountain": 2.0,
@@ -2958,7 +2958,7 @@
           "name": "5 Unused Keys in Gerudo Training Grounds",
           "time": 7.25,
           "skill": 0.5,
-          "weight": 0.35,
+          "weight": 0.30000000000000004,
           "types": {
             "endon": -0.25,
             "fortress": 3.0,
@@ -3018,7 +3018,7 @@
           "name": "Get Bombchu chest in Spirit Temple",
           "time": 7.25,
           "skill": 0.5,
-          "weight": 0.44999999999999996,
+          "weight": 0.4999999999999999,
           "types": {
             "fortress": 2.5,
             "selfsynergy": 0.0,
@@ -3048,7 +3048,7 @@
           "name": "All 8 Death Mountain Area Skulltulas",
           "time": 7.5,
           "skill": 0.5,
-          "weight": -0.6,
+          "weight": -0.65,
           "types": {
             "childchu": 0.0,
             "dmc": 0.25,
@@ -3075,7 +3075,7 @@
           "name": "Open the Final Door of Fire Trial",
           "time": 7.5,
           "skill": 0.25,
-          "weight": -0.05,
+          "weight": -0.05000000000000002,
           "types": {
             "aganon": 3.0,
             "endon": -0.5,
@@ -3104,7 +3104,7 @@
           "name": "Open the Final Door of Light Trial",
           "time": 7.5,
           "skill": 0.25,
-          "weight": -0.1,
+          "weight": -0.10000000000000002,
           "types": {
             "aganon": 3.0,
             "bganon": -1.75,
@@ -3138,7 +3138,7 @@
           "name": "3 Boss Keys",
           "time": 7.75,
           "skill": 0.25,
-          "weight": 1.2000000000000002,
+          "weight": 1.6500000000000006,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -3168,7 +3168,7 @@
           "name": "8 Songs",
           "time": 7.75,
           "skill": 0.0,
-          "weight": 0.0,
+          "weight": -0.05,
           "types": {
             "incsongs": 100.0,
             "poachers": 3.5,
@@ -3198,7 +3198,7 @@
           "name": "Gerudo's Card",
           "time": 7.75,
           "skill": 0.0,
-          "weight": -0.1,
+          "weight": -0.15000000000000002,
           "types": {
             "fortress": 2.5,
             "incgcard": 100.0,
@@ -3229,7 +3229,7 @@
           "name": "Keaton Mask",
           "time": 7.75,
           "skill": 0.0,
-          "weight": -0.44999999999999996,
+          "weight": -0.65,
           "types": {
             "childchu": 0.0,
             "chuczl": 2.0,
@@ -3259,7 +3259,7 @@
           "name": "Map & Compass in Jabu-Jabu",
           "time": 7.75,
           "skill": 0.25,
-          "weight": -0.35000000000000003,
+          "weight": -0.5,
           "types": {
             "fountain": 2.0,
             "incbarinade": 100.0,
@@ -3288,7 +3288,7 @@
           "name": "Fairy Bow",
           "time": 8.0,
           "skill": 0.5,
-          "weight": 0.05,
+          "weight": 0.1,
           "types": {
             "forest": 3.0,
             "hovers": 2.5,
@@ -3323,7 +3323,7 @@
           "name": "Open 2 Boss Key Doors",
           "time": 8.0,
           "skill": 0.0,
-          "weight": 1.5000000000000002,
+          "weight": 2.1000000000000005,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -3356,7 +3356,7 @@
           "name": "Beat Jabu-Jabu's Belly",
           "time": 8.25,
           "skill": 0.25,
-          "weight": -0.55,
+          "weight": -0.7000000000000001,
           "types": {
             "endon": -1.25,
             "fountain": 2.0,
@@ -3386,7 +3386,7 @@
           "name": "Fire Arrows",
           "time": 8.25,
           "skill": 0.5,
-          "weight": 0.15000000000000002,
+          "weight": 0.25,
           "types": {
             "firearrow": 8.0,
             "fortress": 3.0,
@@ -3419,7 +3419,7 @@
           "name": "20 Different Skulltulas",
           "time": 8.5,
           "skill": 0.5,
-          "weight": -0.6,
+          "weight": -0.7500000000000001,
           "types": {
             "incskulls": 100.0,
             "selfsynergy": -2.0,
@@ -3443,7 +3443,7 @@
           "name": "3 Swords & 3 Boots",
           "time": 8.5,
           "skill": 0.25,
-          "weight": 0.0,
+          "weight": -0.1,
           "types": {
             "endon": -0.5,
             "fountain": 2.0,
@@ -3481,7 +3481,7 @@
           "name": "7 Hearts (no duping)",
           "time": 8.5,
           "skill": 0.5,
-          "weight": -0.15000000000000002,
+          "weight": -0.30000000000000004,
           "types": {
             "hearts3": 10.0,
             "hearts4": 0.5,
@@ -3504,7 +3504,7 @@
           "name": "Bronze Gauntlets",
           "time": 8.5,
           "skill": 0.75,
-          "weight": -0.2,
+          "weight": -0.3,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -3535,7 +3535,7 @@
           "name": "Defeat Barinade",
           "time": 8.5,
           "skill": 0.25,
-          "weight": -0.5,
+          "weight": -0.65,
           "types": {
             "endon": -0.25,
             "fountain": 2.0,
@@ -3565,7 +3565,7 @@
           "name": "Shadow Temple Boss Key",
           "time": 8.5,
           "skill": 0.25,
-          "weight": 0.3,
+          "weight": 0.35,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -3601,7 +3601,7 @@
           "name": "3 Tunics & 3 Boots",
           "time": 8.75,
           "skill": 0.25,
-          "weight": 0.10000000000000002,
+          "weight": 0.15000000000000002,
           "types": {
             "endon": -0.5,
             "fountain": 2.0,
@@ -3639,7 +3639,7 @@
           "name": "Desert Colossus HP",
           "time": 8.75,
           "skill": 0.75,
-          "weight": 0.15000000000000002,
+          "weight": 0.25,
           "types": {
             "fortress": 2.5,
             "selfsynergy": 0.0,
@@ -3669,7 +3669,7 @@
           "name": "Double Magic",
           "time": 8.75,
           "skill": 0.0,
-          "weight": -0.2,
+          "weight": -0.25,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -3703,7 +3703,7 @@
           "name": "Map & Compass in Fire Temple",
           "time": 8.75,
           "skill": 0.0,
-          "weight": -0.05,
+          "weight": -0.15000000000000002,
           "types": {
             "dmc": 1.0,
             "fire": 5.0,
@@ -3734,7 +3734,7 @@
           "name": "Open the Final Door of Forest Trial",
           "time": 8.75,
           "skill": 1.0,
-          "weight": -0.8500000000000001,
+          "weight": -1.0000000000000002,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -3803,7 +3803,7 @@
           "name": "Defeat Nabooru-Knuckle",
           "time": 9.0,
           "skill": 1.0,
-          "weight": 0.5,
+          "weight": 0.65,
           "types": {
             "endon": -0.5,
             "fortress": 2.5,
@@ -3837,7 +3837,7 @@
           "name": "5 Compasses",
           "time": 9.25,
           "skill": 0.25,
-          "weight": 0.5499999999999999,
+          "weight": 0.49999999999999994,
           "types": {
             "botw": 0.0,
             "compass": 10.0,
@@ -3868,7 +3868,7 @@
           "name": "Defeat Amy (Green Poe)",
           "time": 9.25,
           "skill": 0.0,
-          "weight": 0.0,
+          "weight": 0.2,
           "types": {
             "forest": 3.0,
             "fortress": 3.0,
@@ -3906,7 +3906,7 @@
           "name": "Double Defense",
           "time": 9.25,
           "skill": 0.0,
-          "weight": -0.24999999999999997,
+          "weight": -0.4,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -3939,7 +3939,7 @@
           "name": "3 Skulltulas in Water Temple",
           "time": 9.5,
           "skill": 0.5,
-          "weight": -0.44999999999999996,
+          "weight": -0.65,
           "types": {
             "dc": 2.0,
             "ice": 1.5,
@@ -3976,7 +3976,7 @@
           "name": "4 Skulltulas in Shadow Temple",
           "time": 9.5,
           "skill": 0.5,
-          "weight": -0.05,
+          "weight": -0.1,
           "types": {
             "hovers": 2.5,
             "selfsynergy": 0.0,
@@ -4034,7 +4034,7 @@
           "name": "All 4 Wasteland/ Colossus Area Skulltulas",
           "time": 9.75,
           "skill": 0.5,
-          "weight": 0.05,
+          "weight": 0.2,
           "types": {
             "fortress": 2.5,
             "selfsynergy": 0.0,
@@ -4065,7 +4065,7 @@
           "name": "All 8 Zora's Domain Area Skulltulas",
           "time": 9.75,
           "skill": 0.5,
-          "weight": -1.5000000000000002,
+          "weight": -2.1000000000000005,
           "types": {
             "childchu": 0.0,
             "fountain": 2.0,
@@ -4096,7 +4096,7 @@
           "name": "Forest Temple Boss Key",
           "time": 9.75,
           "skill": 0.25,
-          "weight": 0.0,
+          "weight": 0.15000000000000002,
           "types": {
             "claimcheck": 10.0,
             "forest": 4.0,
@@ -4134,7 +4134,7 @@
           "name": "Obtain all 5 Small Keys in Forest Temple",
           "time": 9.75,
           "skill": 0.25,
-          "weight": -0.2,
+          "weight": -0.25,
           "types": {
             "forest": 3.0,
             "incforest": 100.0,
@@ -4168,7 +4168,7 @@
           "name": "Silver Gauntlets",
           "time": 9.75,
           "skill": 0.75,
-          "weight": 1.1500000000000001,
+          "weight": 1.4000000000000004,
           "types": {
             "endon": -1.0,
             "fortress": 3.0,
@@ -4271,7 +4271,7 @@
           "name": "Mirror Shield",
           "time": 10.0,
           "skill": 0.75,
-          "weight": 0.9000000000000001,
+          "weight": 1.2500000000000002,
           "types": {
             "fortress": 2.5,
             "gtg": 1.5,
@@ -4339,7 +4339,7 @@
           "name": "8 Different Unused Keys in Gerudo Training Grounds",
           "time": 10.25,
           "skill": 0.25,
-          "weight": -0.05,
+          "weight": 0.0,
           "types": {
             "endon": -0.25,
             "fortress": 3.0,
@@ -4373,7 +4373,7 @@
           "name": "3 Shields",
           "time": 10.5,
           "skill": 0.75,
-          "weight": 0.9500000000000002,
+          "weight": 1.1500000000000001,
           "types": {
             "fortress": 2.5,
             "gtg": 1.5,
@@ -4407,7 +4407,7 @@
           "name": "5 Zora Area HPs",
           "time": 10.5,
           "skill": 0.5,
-          "weight": -0.5,
+          "weight": -0.44999999999999996,
           "types": {
             "fountain": 2.0,
             "ice": 1.5,
@@ -4439,7 +4439,7 @@
           "name": "6 Maps",
           "time": 10.5,
           "skill": 0.5,
-          "weight": 1.2000000000000004,
+          "weight": 1.3000000000000005,
           "types": {
             "childchu": 0.0,
             "hovers": 2.5,
@@ -4510,7 +4510,7 @@
           "name": "Light Arrows",
           "time": 10.5,
           "skill": 0.0,
-          "weight": 0.1,
+          "weight": 0.2,
           "types": {
             "endon": -0.75,
             "fortress": 2.0,
@@ -4551,7 +4551,7 @@
           "name": "Open 5 Gold Rupee Chests",
           "time": 10.5,
           "skill": 0.0,
-          "weight": -0.4,
+          "weight": -0.35,
           "types": {
             "botw": 0.0,
             "fire": 2.0,
@@ -4586,7 +4586,7 @@
           "name": "Saria's Song",
           "time": 10.5,
           "skill": 0.0,
-          "weight": -0.8500000000000001,
+          "weight": -1.3,
           "types": {
             "childchu": 0.0,
             "childreset": 1.25,
@@ -4621,7 +4621,7 @@
           "name": "9 Songs",
           "time": 10.75,
           "skill": 0.0,
-          "weight": -0.3,
+          "weight": -0.4,
           "types": {
             "incsongs": 100.0,
             "poachers": 3.5,
@@ -4651,7 +4651,7 @@
           "name": "Blue Gauntlets",
           "time": 11.25,
           "skill": 0.5,
-          "weight": 0.8999999999999998,
+          "weight": 1.0999999999999999,
           "types": {
             "fortress": 2.5,
             "gtg": 1.5,
@@ -4689,7 +4689,7 @@
           "name": "Defeat both Flare Dancers",
           "time": 11.5,
           "skill": 0.25,
-          "weight": -1.4000000000000004,
+          "weight": -1.9000000000000006,
           "types": {
             "dmc": 1.0,
             "fire": 8.0,
@@ -4721,7 +4721,7 @@
           "name": "Frog's HP",
           "time": 11.5,
           "skill": 0.25,
-          "weight": -0.15000000000000002,
+          "weight": 0.04999999999999999,
           "types": {
             "endon": 0.0,
             "forest": 3.0,
@@ -4758,7 +4758,7 @@
           "name": "Spirit Temple Boss Key",
           "time": 11.5,
           "skill": 0.0,
-          "weight": 0.6499999999999998,
+          "weight": 0.7499999999999999,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -4800,7 +4800,7 @@
           "name": "3 Swords & 3 Shields",
           "time": 11.75,
           "skill": 0.75,
-          "weight": 1.1,
+          "weight": 1.15,
           "types": {
             "fortress": 2.5,
             "gtg": 1.5,
@@ -4839,7 +4839,7 @@
           "name": "Nayru's Love",
           "time": 11.75,
           "skill": 0.5,
-          "weight": 0.30000000000000004,
+          "weight": 0.4000000000000001,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -4881,7 +4881,7 @@
           "name": "All 5 Lake Hylia Skulltulas",
           "time": 12.0,
           "skill": 0.5,
-          "weight": -0.5000000000000001,
+          "weight": -0.39999999999999997,
           "types": {
             "fountain": 2.0,
             "ice": 1.5,
@@ -4915,7 +4915,7 @@
           "name": "All 5 Skulltulas in Fire Temple",
           "time": 12.0,
           "skill": 0.5,
-          "weight": -0.8999999999999999,
+          "weight": -1.2000000000000004,
           "types": {
             "dmc": 1.0,
             "fire": 4.75,
@@ -4948,7 +4948,7 @@
           "name": "Defeat Volvagia",
           "time": 12.0,
           "skill": 0.25,
-          "weight": 0.0,
+          "weight": 0.04999999999999999,
           "types": {
             "dmc": 1.0,
             "endon": -0.5,
@@ -5024,7 +5024,7 @@
           "name": "Quiver (50)",
           "time": 12.5,
           "skill": 0.0,
-          "weight": -0.2,
+          "weight": -0.35000000000000003,
           "types": {
             "beans": 10.0,
             "bombbag": 100.0,
@@ -5059,7 +5059,7 @@
           "name": "8 Hearts (no duping)",
           "time": 12.75,
           "skill": 0.75,
-          "weight": -0.7000000000000001,
+          "weight": -1.05,
           "types": {
             "hearts3": 13.0,
             "hearts4": 2.0,
@@ -5084,7 +5084,7 @@
           "name": "Din's Fire",
           "time": 12.75,
           "skill": 0.0,
-          "weight": -0.4,
+          "weight": -0.25,
           "types": {
             "childchu": 0.0,
             "chuczl": 2.0,
@@ -5121,7 +5121,7 @@
           "name": "Obtain all 5 Small Keys in Shadow Temple",
           "time": 12.75,
           "skill": 0.25,
-          "weight": -0.05,
+          "weight": -0.2,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -5157,7 +5157,7 @@
           "name": "3 Shields & 3 Tunics",
           "time": 13.0,
           "skill": 0.75,
-          "weight": 1.4500000000000004,
+          "weight": 1.9000000000000006,
           "types": {
             "fortress": 2.5,
             "fountain": 1.5,
@@ -5196,7 +5196,7 @@
           "name": "6 Compasses",
           "time": 13.0,
           "skill": 0.5,
-          "weight": 0.15000000000000002,
+          "weight": 0.2,
           "types": {
             "botw": 0.0,
             "compass": 15.0,
@@ -5228,7 +5228,7 @@
           "name": "Defeat Meg (Purple Poe)",
           "time": 13.0,
           "skill": 0.5,
-          "weight": -0.35,
+          "weight": -0.55,
           "types": {
             "forest": 3.0,
             "hovers": 2.5,
@@ -5262,7 +5262,7 @@
           "name": "Goron Bracelet",
           "time": 13.0,
           "skill": 0.0,
-          "weight": -0.55,
+          "weight": -0.75,
           "types": {
             "childchu": 0.0,
             "childreset": 1.25,
@@ -5299,7 +5299,7 @@
           "name": "Open the Final Door of Water Trial",
           "time": 13.0,
           "skill": 0.5,
-          "weight": 0.49999999999999994,
+          "weight": 0.9,
           "types": {
             "aganon": 3.0,
             "dmc": 1.0,
@@ -5336,7 +5336,7 @@
           "name": "All 5 Skulltulas in Shadow Temple",
           "time": 13.25,
           "skill": 0.25,
-          "weight": -0.5,
+          "weight": -0.6499999999999999,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -5373,7 +5373,7 @@
           "name": "Clear 8 Silver Rupee Rooms",
           "time": 13.5,
           "skill": 0.5,
-          "weight": -0.05,
+          "weight": 0.0,
           "types": {
             "aganon": 2.5,
             "bganon": -1.75,
@@ -5452,7 +5452,7 @@
           "name": "Free all 9 Gorons in Fire Temple",
           "time": 13.5,
           "skill": 0.25,
-          "weight": -1.3500000000000003,
+          "weight": -1.8500000000000005,
           "types": {
             "dmc": 1.0,
             "fire": 8.0,
@@ -5487,7 +5487,7 @@
           "name": "All 5 Skulltulas in Spirit Temple",
           "time": 13.75,
           "skill": 0.75,
-          "weight": 0.6499999999999999,
+          "weight": 0.7500000000000001,
           "types": {
             "fortress": 2.5,
             "hovers": 2.5,
@@ -5519,7 +5519,7 @@
           "name": "Open the Final Door of Shadow Trial",
           "time": 13.75,
           "skill": 0.75,
-          "weight": 0.4,
+          "weight": 0.7,
           "types": {
             "aganon": 3.0,
             "dmc": 1.0,
@@ -5557,7 +5557,7 @@
           "name": "Open the Final Door of Spirit Trial",
           "time": 13.75,
           "skill": 0.75,
-          "weight": 1.0500000000000003,
+          "weight": 1.2500000000000004,
           "types": {
             "aganon": 3.0,
             "endon": -0.5,
@@ -5595,7 +5595,7 @@
           "name": "1 Unused Small Key in each Adult Dungeon",
           "time": 14.25,
           "skill": 0.75,
-          "weight": 0.55,
+          "weight": 0.9000000000000001,
           "types": {
             "dc": 2.0,
             "dmc": 1.0,
@@ -5636,7 +5636,7 @@
           "name": "All 5 Skulltulas in Water Temple",
           "time": 14.25,
           "skill": 0.75,
-          "weight": -1.5000000000000002,
+          "weight": -2.1000000000000005,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -5681,7 +5681,7 @@
           "name": "7 Maps",
           "time": 14.5,
           "skill": 0.5,
-          "weight": 0.7000000000000001,
+          "weight": 0.8499999999999999,
           "types": {
             "childchu": 0.0,
             "hovers": 2.5,
@@ -5715,7 +5715,7 @@
           "name": "Open 3 Boss Key Doors",
           "time": 14.5,
           "skill": 0.25,
-          "weight": 0.25,
+          "weight": 0.35000000000000003,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -5750,7 +5750,7 @@
           "name": "3 Shields & 3 Boots",
           "time": 15.0,
           "skill": 0.75,
-          "weight": 0.7499999999999999,
+          "weight": 1.0499999999999996,
           "types": {
             "endon": -0.5,
             "fortress": 2.5,
@@ -5791,7 +5791,7 @@
           "name": "Green Gauntlets",
           "time": 15.0,
           "skill": 0.0,
-          "weight": -0.75,
+          "weight": -1.0499999999999996,
           "types": {
             "childchu": 0.0,
             "childreset": 1.25,
@@ -5828,7 +5828,7 @@
           "name": "Map & Compass in Spirit Temple",
           "time": 15.75,
           "skill": 0.75,
-          "weight": 0.4,
+          "weight": 0.39999999999999997,
           "types": {
             "bothzl": -3.5,
             "czl": 3.5,
@@ -5869,7 +5869,7 @@
           "name": "Two Fairy Spells",
           "time": 15.75,
           "skill": 0.5,
-          "weight": 1.1500000000000001,
+          "weight": 1.9500000000000006,
           "types": {
             "bothzl": -3.5,
             "czl": 7.75,
@@ -5914,7 +5914,7 @@
           "name": "1 Skulltula from each Adult Dungeon",
           "time": 16.0,
           "skill": 1.0,
-          "weight": 0.15000000000000002,
+          "weight": 0.2,
           "types": {
             "dmc": 1.0,
             "fire": 1.5,
@@ -5956,7 +5956,7 @@
           "name": "All 4 Market Area Skulltulas",
           "time": 16.0,
           "skill": 0.5,
-          "weight": -1.4000000000000001,
+          "weight": -1.7000000000000006,
           "types": {
             "dins": 1.0,
             "endon": 0.0,
@@ -5994,7 +5994,7 @@
           "name": "Defeat 4 Different Iron Knuckles",
           "time": 16.0,
           "skill": 0.75,
-          "weight": -0.30000000000000004,
+          "weight": -0.8500000000000001,
           "types": {
             "aganon": 3.0,
             "bganon": -2.75,
@@ -6031,7 +6031,7 @@
           "name": "30 Different Skulltulas",
           "time": 16.5,
           "skill": 1.0,
-          "weight": -0.4500000000000002,
+          "weight": -0.6500000000000001,
           "types": {
             "incskulls": 100.0,
             "selfsynergy": -2.0,
@@ -6055,7 +6055,7 @@
           "name": "All 3 Elemental Arrows",
           "time": 16.75,
           "skill": 0.5,
-          "weight": 0.45000000000000023,
+          "weight": 0.65,
           "types": {
             "endon": -0.75,
             "firearrow": 8.0,
@@ -6130,7 +6130,7 @@
           "name": "9 Hearts (no duping)",
           "time": 17.0,
           "skill": 1.0,
-          "weight": -0.55,
+          "weight": -0.8500000000000001,
           "types": {
             "hearts3": 16.0,
             "hearts4": 3.0,
@@ -6155,7 +6155,7 @@
           "name": "Defeat Twinrova",
           "time": 17.0,
           "skill": 1.0,
-          "weight": 0.0,
+          "weight": 0.15000000000000002,
           "types": {
             "endon": -1.0,
             "fortress": 2.5,
@@ -6192,7 +6192,7 @@
           "name": "10 Songs",
           "time": 17.25,
           "skill": 0.5,
-          "weight": 0.25,
+          "weight": 0.3500000000000001,
           "types": {
             "endon": -0.25,
             "fortress": 2.5,
@@ -6230,7 +6230,7 @@
           "name": "Clear 10 Silver Rupee Rooms",
           "time": 17.5,
           "skill": 0.5,
-          "weight": 0.2,
+          "weight": 0.25,
           "types": {
             "aganon": 3.0,
             "bganon": -1.75,
@@ -6272,7 +6272,7 @@
           "name": "3 Swords, Tunics, Boots, and Shields",
           "time": 17.75,
           "skill": 0.75,
-          "weight": -1.3877787807814457E-17,
+          "weight": -0.05,
           "types": {
             "endon": -0.5,
             "fortress": 2.5,
@@ -6319,7 +6319,7 @@
           "name": "Beat the Spirit Temple",
           "time": 18.25,
           "skill": 1.0,
-          "weight": -0.10000000000000002,
+          "weight": -0.2,
           "types": {
             "endon": -1.0,
             "fortress": 2.5,
@@ -6356,7 +6356,7 @@
           "name": "Both Rusty Switches in Spirit Temple",
           "time": 18.25,
           "skill": 0.75,
-          "weight": 0.25,
+          "weight": 0.3500000000000001,
           "types": {
             "dmc": 1.0,
             "fire": 7.0,
@@ -6393,7 +6393,7 @@
           "name": "Open All 6 Gold Rupee Chests",
           "time": 18.25,
           "skill": 0.25,
-          "weight": -0.15000000000000002,
+          "weight": -0.1,
           "types": {
             "botw": 0.0,
             "dmc": 1.0,
@@ -6430,7 +6430,7 @@
         "gclw": 1.0,
         "hookshot": 2.75,
         "ms": 9.5,
-        "child2": -4.0
+        "child2": -3.0
       },
       "synfilters": {
         "botw": "min 1",
@@ -6439,8 +6439,10 @@
         "ganonchu": "min 1",
         "legitlacs": "min -2"
       },
-      "averageStandardDeviation": 59.99046490483506
-    },
+      "averageStandardDeviation": 58.178244022646176
+    }
+    
+    ,
     "short": {
       "goals": [
         {
@@ -8871,4 +8873,4 @@
       "averageStandardDeviation": 0.0
     }
   }
-}
+};
