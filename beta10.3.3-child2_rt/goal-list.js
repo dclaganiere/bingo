@@ -6474,18 +6474,6 @@ var bingoList = {
           "rowtypes": {}
         },
         {
-          "difficulty": 0,
-          "id": "",
-          "jp": "",
-          "name": "",
-          "time": 0.0,
-          "skill": 0.0,
-          "weight": null,
-          "types": {},
-          "subtypes": {},
-          "rowtypes": {}
-        },
-        {
           "difficulty": 1,
           "id": "99-rupees",
           "jp": "99ルピー",
