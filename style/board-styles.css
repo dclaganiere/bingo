@@ -47,10 +47,10 @@
 .bingo-board.table {
   flex-shrink: 0;
   display: grid;
-  grid-template-columns: var(--board-header-width) repeat(5, 1fr);
-  grid-template-rows: var(--board-header-height) repeat(5, 1fr) var(--header-height) var(--header-height);
-  height: calc(3 * var(--board-header-height) + 5 * var(--board-cell-height));
-  width: calc(var(--board-header-width) + 5 * var(--board-cell-width));
+  grid-template-columns: var(--board-header-width) repeat(7, 1fr);
+  grid-template-rows: var(--board-header-height) repeat(7, 1fr) var(--header-height) var(--header-height);
+  height: calc(3 * var(--board-header-height) + 7 * var(--board-cell-height));
+  width: calc(var(--board-header-width) + 7 * var(--board-cell-width));
 }
 
 body > .bingo-board.table {
@@ -59,11 +59,11 @@ body > .bingo-board.table {
 }
 
 #board-popout {
-  grid-row: 8;
+  grid-row: 10;
 }
 
 #bingo-info {
-  grid-area: 8 / 2 / 9 / 7;
+  grid-area: 10 / 2 / 11 / 7;
   display: flex;
   gap: 16px;
   justify-content: flex-end;

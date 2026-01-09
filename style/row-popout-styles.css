@@ -48,8 +48,8 @@
 
 .row-popout.table {
   display: grid;
-  grid-template-rows: var(--header-height) repeat(5, 1fr);
-  height: calc(var(--header-height) + 5 * var(--row-popout-cell-height));
+  grid-template-rows: var(--header-height) repeat(7, 1fr);
+  height: calc(var(--header-height) + 7 * var(--row-popout-cell-height));
   width: var(--row-popout-cell-width);
 }
 
